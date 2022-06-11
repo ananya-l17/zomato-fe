@@ -1,4 +1,4 @@
-Developed a Full Stack MERN food-ordering website like Zomato. Includes operations like register, login, Google authentication, searching and filtration by place(s)/location(s), searching restraunt(s), selecting different kinds of meal(s) like breakfast, lunch, dinner, etc., filtering meal(s) by cuisine type, cost, etc., PayTm payment gateway integration. 
+Developed a MERN stack food-ordering website. Includes operations like register, login, Google authentication, searching and filtration by places/locations, searching restaurants, selecting different kinds of meals like breakfast, lunch, dinner, etc., filtering meals by cuisine type, cost, etc., PayTm payment gateway integration. 
 
 USER INTERFACES-
 
